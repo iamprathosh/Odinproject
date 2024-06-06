@@ -1,3 +1,5 @@
+
+
 Prepare your question
 Asking detailed technical questions will take time to prepare all of the relevant information. This investment of time will make it easier for others to help you and will also help you understand your problem even better.
 
@@ -26,4 +28,4 @@ Explain the problem that you are having and include any steps needed to reproduc
 With as much detail as possible, describe what you are expecting to happen and why you are expecting this to happen.
 
 5. Summarize what you have tried
-Summarize your theory of what is happening, what you investigated, and the results you had after implementing any possible solutions. Explain any findings that you discovered while you were debugging, especially if you were able to pinpoint where the unusual behavior started happening.
+Summarize your theory of what is happening, what you investigated, and the results you had after implementing any possible solutions. Explain any findings that you discovered while you were debugging, especially if you were able to pinpoint where the unusual behavior started happening.\n 
