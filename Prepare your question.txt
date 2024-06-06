@@ -1,0 +1,29 @@
+Prepare your question
+Asking detailed technical questions will take time to prepare all of the relevant information. This investment of time will make it easier for others to help you and will also help you understand your problem even better.
+
+1. Provide a link to the lesson/project in the curriculum
+This is important because it provides the surrounding context to your question. In addition, knowing where you are in the curriculum will show your current knowledge and skill level.
+
+2. Provide code, pseudo-code, or other relevant information
+When asking a question it is essential to provide your code, error message, terminal command, server output, etc. If you have more than a few lines to share, you should use an external service:
+
+CodePen for basic HTML/CSS/Javascript
+Replit for Javascript/Ruby
+CodeSandbox for Webpack/React
+Pastebin for error messages or server output
+If you have a question before you have written any code, you should provide your pseudo code. If you need help writing pseudo code, you should read through our Problem Solving lesson with your specific issue in mind.
+
+Sometimes it might make sense to share a link to your GitHub repository. Be sure to make it as easy as possible for others to help you by providing detailed information (file names, function/method names, line numbers, etc).
+
+When you need to share an image of your terminal window or computer screen, share a screenshot using a screenshot tool on your computer. If you are not familiar with this tool, you should research it using your favorite search engine. Do not share a photo of your computer screen. Pictures of computer screens are low quality images that are difficult for others to read.
+
+Do not share files that require a user to download them. It is impossible to tell whether a file contains malware or has some other malicious intent. Therefore, you should never share a file that requires users to download and open it on their own device.
+
+3. Explain the problem
+Explain the problem that you are having and include any steps needed to reproduce the problem. In addition, you should also explain what part of the project you are trying to solve. This is important so others will know if the direction you are going will solve that part of the project, or if it would be better to steer you in a different direction. This is commonly referred to as the “XY Problem”, which is a common pitfall for programmers as they learn how to ask detailed questions.
+
+4. Describe what you are expecting
+With as much detail as possible, describe what you are expecting to happen and why you are expecting this to happen.
+
+5. Summarize what you have tried
+Summarize your theory of what is happening, what you investigated, and the results you had after implementing any possible solutions. Explain any findings that you discovered while you were debugging, especially if you were able to pinpoint where the unusual behavior started happening.
